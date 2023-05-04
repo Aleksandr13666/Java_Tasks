@@ -9,7 +9,7 @@ public class hw2 {
         while(true){
             int x = sc.nextInt();
             if (x != 0) n += x;
-            else break;;
+            else break;
 
         }
         System.out.println(n);
