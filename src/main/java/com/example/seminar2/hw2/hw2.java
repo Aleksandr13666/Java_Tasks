@@ -1,6 +1,11 @@
 package com.example.seminar2.hw2;
 
 import java.util.Scanner;
+
+/**
+ * Дана последовательность из N целых чисел.
+ * Верно ли, что последовательность является возрастающей.
+ */
 public class hw2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

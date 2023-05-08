@@ -3,7 +3,7 @@ package com.example.seminar2.hw1;
 import java.util.Scanner;
 
 /**
- * https://leetcode.com/problems/powx-n/
+ * Дана последовательность N целых чисел. Найти сумму простых чисел.
  */
 public class hw1 {
     public static void main (String[] args) {
