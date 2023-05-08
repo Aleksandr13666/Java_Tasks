@@ -2,7 +2,7 @@ package com.example.seminar1.hw1;
 
 public class hw1 {
     public static void main(String[] args) {
-        System.out.println(replaceOfString("the sky is blue"));
+        System.out.println(replaceOfString("   the sky is blue"));
     }
 
     public static String replaceOfString(String s){
