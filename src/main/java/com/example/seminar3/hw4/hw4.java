@@ -5,6 +5,10 @@ package com.example.seminar3.hw4;
  * максимальное и среднее из этого списка.
  */
 
+/**+
+
+
+
 import java.util.ArrayList;
 import  java.util.Random;
 public class hw4 {
@@ -28,3 +32,4 @@ public class hw4 {
         System.out.printf("Average: %.1f\n",((float)sum/arrlst.size()));
     }
 }
+*/
